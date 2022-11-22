@@ -1,0 +1,6 @@
+{
+    "owner": "knutdrand",
+    "name": "Snakemake Boilerplate",
+    "repo": "snakemake-boilerplate",
+    "description": "Snakemake Boilerplate contains all the boilerplate you need to create a Snakemake package."
+}
